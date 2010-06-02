@@ -22,21 +22,10 @@
 
 ## What the web really needed: ##
 
-!SLIDE
+!SLIDE center
 
-## Less structure. ##
-
-!SLIDE
-
-## Simpler data. ##
-
-!SLIDE
-
-## Easier way to scale up. ##
-
-!SLIDE
-
-## How'd that work out? ##
+# Less structure #
+![Wordpress Schema](wordpress_schema.jpg)
 
 !SLIDE small
 
@@ -48,10 +37,6 @@
       "created_at": "2010/05/12 10:09:53 +0000",
       "title": "JSON instead of schema constraints"
     }
-
-!SLIDE small
-
-# Less structure #
 
 
 !SLIDE bullets incremental
