@@ -24,6 +24,20 @@
 
 !SLIDE
 
+## I blame the following people for me being here. ##
+
+!SLIDE center
+
+# Jan Lehnardt #
+![Jan Lehnardt](jan_lehnardt.jpg)
+
+!SLIDE center
+
+# Salvatore Sanfilippo #
+![antirez](antirez.png)
+
+!SLIDE
+
 # NoSQL? #
 
 !SLIDE
