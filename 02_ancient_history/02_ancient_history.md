@@ -53,6 +53,35 @@
       "title": "JSON FTW!"
     }
 
+## Document ##
+
+!SLIDE
+
+# Less structure #
+
+    {
+      "_id": "45cae57dc7504ebd630a549275",
+      "_rev": "2-1403823b3baf6e493a48e7b65",
+      "created_at": "2010/05/12 10:09:53",
+      "title": "JSON FTW!"
+    }
+
+## Schemaless ##
+
+!SLIDE
+
+# Less structure #
+
+    {
+      "_id": "45cae57dc7504ebd630a549275",
+      "_rev": "2-1403823b3baf6e493a48e7b65",
+      "created_at": "2010/05/12 10:09:53",
+      "title": "JSON FTW!"
+    }
+
+## JSON ##
+
+
 
 !SLIDE
 
