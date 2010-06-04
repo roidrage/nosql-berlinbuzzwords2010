@@ -19,8 +19,13 @@
 
 <a href="http://scalarium.com"><img src="scalarium.png" id="scalarium_logo"/></a>
 
-## Awesome Cloud Management and Deployment for Ruby Applications ##
+## Awesome Cloud Management and Deployment ##
 ## [@scalarium](http://twitter.com/scalarium)
+
+!SLIDE
+
+# Disclaimer: I'm just a regular user #
+## I just love to play and work with shiny tools. ##
 
 !SLIDE
 
@@ -35,6 +40,7 @@
 
 # Salvatore Sanfilippo #
 ![antirez](antirez.png)
+
 
 !SLIDE
 
@@ -70,20 +76,24 @@
 
 !SLIDE
 
-# The technology ain't new. #
+## The technologies aren't new. ##
 
 !SLIDE
 
-# It just comes in a prettier package. #
+## It just comes in a prettier package. ##
 
-!SLIDE
+!SLIDE center
 
 # Scale! #
+![Scale up up up](scale.jpg)
+
+!SLIDE
+
 ## That must be it, right? ##
 
 !SLIDE
 
-# Somewhat, yes. #
+## Somewhat, yes. ##
 
 !SLIDE
 
@@ -113,4 +123,4 @@
 
 !SLIDE
 
-## Note: Order is not random, but opinionated. ##
+## Note: Order is not random, it's opinionated. ##
