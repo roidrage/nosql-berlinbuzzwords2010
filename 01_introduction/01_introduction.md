@@ -24,23 +24,30 @@
 
 !SLIDE
 
-# Disclaimer: I'm just a regular user #
+# Disclaimer #
+
+!SLIDE
+
+# I'm just a regular user #
 ## I just love to play and work with shiny tools. ##
 
 !SLIDE
 
-## I blame the following people for me being here. ##
+## I blame these people for me being here. ##
 
 !SLIDE center
 
 # Jan Lehnardt #
-![Jan Lehnardt](jan_lehnardt.jpg)
+![Jan Lehnardt](jan_lehnardt.jpg)  
+
+### CouchDB ###
 
 !SLIDE center
 
 # Salvatore Sanfilippo #
-![antirez](antirez.png)
+![antirez](antirez.png)  
 
+### Redis ###
 
 !SLIDE
 
