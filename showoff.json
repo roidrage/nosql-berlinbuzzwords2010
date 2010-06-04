@@ -2,6 +2,7 @@
   "name": "NoSQL - The Definitive Guide",
   "sections": [
     {"section": "01_introduction"},
-    {"section": "02_ancient_history"}
+    {"section": "02_why_something_new"},
+    {"section": "03_the_contestants"}
   ]
 }

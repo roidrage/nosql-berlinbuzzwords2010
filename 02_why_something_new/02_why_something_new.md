@@ -162,4 +162,4 @@
 
 !SLIDE
 
-## But where's the history in that? ##
+# So how about history? #
