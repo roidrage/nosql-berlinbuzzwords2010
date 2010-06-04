@@ -48,12 +48,17 @@
 * Amazon S3
 * Scalaris
 
+!SLIDE
+
+## Fun fact: ##
+### Project Voldemort can use BerkeleyDB as storage backend ###
+
 !SLIDE bullets incremental
 
 # Document Databases #
 
-* Rich documents (JSON)
-* Querying data through Map/Reduce
+* Rich documents (JSON-ish)
+* Queries with JavaScript and Map/Reduce
 
 !SLIDE bullets incremental
 
@@ -72,6 +77,22 @@
 * Riak
 * MongoDB
 * XML Databases (gasp)
+
+!SLIDE bullets
+
+# CouchDB #
+
+* Lotus Notes
+* JavaScript, HTTP
+* Offline by default
+* P2P-like Replication
+
+!SLIDE bullets
+
+# Riak #
+
+* JSON, JavaScript, HTTP
+* Dynamo's Ring Model
 
 !SLIDE bullets incremental
 
@@ -92,7 +113,17 @@
 
 # Today #
 
+* Google's BigTable
 * Cassandra
+* HBase
+
+!SLIDE bullets incremental
+
+# Cassandra #
+
+* BigTable
+* Dynamo
+* Sitting in a tree
 
 !SLIDE
 
