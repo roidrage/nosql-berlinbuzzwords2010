@@ -116,6 +116,7 @@
 * Google's BigTable
 * Cassandra
 * HBase
+* Hypertable
 
 !SLIDE bullets incremental
 
