@@ -122,15 +122,9 @@
 
 # Cassandra #
 
-* BigTable
-* Dynamo
+* BigTable and Dynamo
 * Sitting in a tree
 
-!SLIDE
-
-# Column Databases #
-
-## Columns of columns of columns of data ##
 
 !SLIDE
 
@@ -171,3 +165,31 @@
 !SLIDE
 
 ## Only the ring needs to know ##
+
+!SLIDE
+
+## As long as you just need a key to access data ##
+
+!SLIDE
+
+## Scaling out is easy ##
+
+!SLIDE
+
+## ...in theory. ##
+
+!SLIDE
+
+## Column, key-value and document stores ##
+
+!SLIDE
+
+## All access data by key ##
+
+!SLIDE
+
+## They're partitioning-friendly ##
+
+!SLIDE
+
+## Therefore well-suited for hashing ##

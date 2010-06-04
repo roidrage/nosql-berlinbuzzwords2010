@@ -87,7 +87,7 @@
 
 !SLIDE
 
-## It just comes in a prettier package. ##
+## They just come in a prettier package. ##
 
 !SLIDE center
 
