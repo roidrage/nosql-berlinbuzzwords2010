@@ -91,8 +91,7 @@
 
 !SLIDE center
 
-# Scale! #
-![Scale up up up](scale.jpg)
+# Scalability? #
 
 !SLIDE
 
@@ -112,7 +111,7 @@
 
 !SLIDE
 
-# The Data! #
+# Data! #
 
 !SLIDE
 
