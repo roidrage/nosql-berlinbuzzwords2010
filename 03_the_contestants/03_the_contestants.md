@@ -193,3 +193,35 @@
 !SLIDE
 
 ## Therefore well-suited for hashing ##
+
+!SLIDE
+
+# Caveat Emptor #
+
+!SLIDE
+
+## It's not for everybody. ##
+
+!SLIDE
+
+## Even if some people like telling you that. ##
+
+!SLIDE
+
+## Simplicity comes with a price. ##
+
+!SLIDE
+
+## A price that depends on your use case. ##
+
+!SLIDE
+
+## Range queries can be hard. ##
+
+!SLIDE
+
+## Complex ad-hoc queries are almost impossible. ##
+
+!SLIDE
+
+## They just don't scale that well across N nodes. ##

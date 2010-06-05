@@ -3,6 +3,7 @@
   "sections": [
     {"section": "01_introduction"},
     {"section": "02_why_something_new"},
-    {"section": "03_the_contestants"}
+    {"section": "03_the_contestants"},
+    {"section": "04_pick_your_tools"}
   ]
 }
