@@ -1,5 +1,72 @@
 !SLIDE
 
+## How is today different from back then? ##
+
+!SLIDE
+
+## The simplicity isn't new. ##
+
+!SLIDE
+
+## Data is what's become important. ##
+
+!SLIDE
+
+## And simpler ways to scale out. ##
+
+!SLIDE
+
+## The tools evolve around particular data and structure needs. ##
+
+!SLIDE
+
+## Open web technologies are a perfect fit. ##
+
+!SLIDE
+
+## But not a must. ##
+
+!SLIDE
+
+## If someone tries to sell you a closed product. ##
+
+!SLIDE
+
+# Run! #
+
+!SLIDE
+
+# Caveat Emptor #
+
+!SLIDE
+
+## It's not for everybody. ##
+
+!SLIDE
+
+## Even if some people like telling you that. ##
+
+!SLIDE
+
+## Simplicity comes with a price. ##
+
+!SLIDE
+
+## A price that depends on your use case. ##
+
+!SLIDE
+
+## Range queries can be hard. ##
+
+!SLIDE
+
+## Complex ad-hoc queries are almost impossible. ##
+
+!SLIDE
+
+## They just don't scale that well across N nodes. ##
+!SLIDE
+
 ## So how do I choose the right tool? ##
 
 !SLIDE

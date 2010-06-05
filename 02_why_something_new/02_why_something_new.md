@@ -40,7 +40,7 @@
 
 * Documents
 * Schemaless, not constrained
-* JSON
+* JSON (just an example)
 
 !SLIDE
 
@@ -99,86 +99,12 @@
 # Scaling up #
 ![Scaling up!](scale.jpg)
 
-!SLIDE bullets incremental
+!SLIDE center
 
-# How we used to scale up #
-
-* Or at least we tried to
+## Another requirement that hasn't really existed before today's web. ##
 
 !SLIDE center
 
-## Master-Slave ##
+## But more on that later. ##
 
-![Master-Slave](master_slave.png)
 
-### (Old-school!) ###
-
-!SLIDE
-
-## How we should scale up instead: ##
-
-!SLIDE center
-
-## P2P ##
-
-![Multi-Master](multi_master.png)
-
-### Much better! ###
-
-!SLIDE
-
-# Amazon's Dynamo #
-
-!SLIDE center
-
-## The Ring ##
-
-![Hash Ring](hash_ring.png)
-
-!SLIDE bullets incremental
-
-* Data is partitioned into slices
-* Replicated across N nodes
-* Writes go to at least W replicas
-* Reads are successful from R replicas
-* N, R, W represent the quorum
-
-!SLIDE
-
-# Quorum #
-
-## The minimum number of votes given by replica nodes in a distributed system required to successfully complete a read or write operation. ##
-
-!SLIDE center
-
-## CAP ##
-
-![CAP](cap.png)
-
-### Pick two! ###
-
-!SLIDE center
-
-## CAP ##
-
-![AP](ap.png)
-
-### The choice of the NoSQL generation. ##
-
-!SLIDE center
-<br/>
-## Eventual Consistency ##
-
-![Eventual Consistency](eventual.jpg)
-
-!SLIDE
-
-# Eventual Consistency #
-
-> The storage system guarantees that if no new updates are made to the object, eventually all accesses will return the last updated value.
-
-<p class="caption"><a href="http://www.allthingsdistributed.com/2008/12/eventually_consistent.html">Werner Vogels</a></p>
-
-!SLIDE
-
-# So how about history? #

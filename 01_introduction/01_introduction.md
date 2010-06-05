@@ -95,10 +95,6 @@
 
 !SLIDE
 
-## That must be it, right? ##
-
-!SLIDE
-
 ## Somewhat, yes. ##
 
 !SLIDE
@@ -111,6 +107,18 @@
 
 !SLIDE
 
+## Complexity usually imposes contraints. ##
+
+!SLIDE
+
+## Simplicity aims to remove constraints. ##
+
+!SLIDE
+
+## Simplicity aims to not reinvent the wheel. ##
+
+!SLIDE
+
 # Data! #
 
 !SLIDE
@@ -119,9 +127,23 @@
 
 !SLIDE
 
-# To sum up. #
+## But why data? ##
+
+!SLIDE
+
+## Different use cases require different types of data structures. ##
+
+!SLIDE
+
+## RDBMS knew just one: Tables. ##
+
+!SLIDE
+
+## NoSQL is about using what's right for your data. ##
 
 !SLIDE bullets incremental
+
+# To sum up. #
 
 * Simplicity
 * Data
@@ -130,3 +152,7 @@
 !SLIDE
 
 ## Note: Order is not random, it's opinionated. ##
+
+!SLIDE
+
+## NoSQL is about evolution, not replacement. ##

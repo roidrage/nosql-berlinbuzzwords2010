@@ -58,7 +58,21 @@
 # Document Databases #
 
 * Rich documents (JSON-ish)
+* Related data is stored in a document
 * Queries with JavaScript and Map/Reduce
+
+!SLIDE javascript
+
+# Document Databases #
+
+    @@@ javascript
+    {
+      "_id": "45cae57dc7504ebd630a549275",
+      "_rev": "2-1403823b3baf6e493a48e7b65",
+      "created_at": "2010/05/12 10:09:53",
+      "title": "JSON FTW!",
+      "author": "Jan"
+    }
 
 !SLIDE bullets incremental
 
@@ -121,7 +135,7 @@
 
 !SLIDE javascript center
 
-## Lookup of values by key and attribute ##
+## Lookup of values directly by key and attribute ##
 
     @@@ javascript
     users[1234]['name']
@@ -164,8 +178,9 @@
 
 !SLIDE bullets incremental
 
-# Versant OODMBS #
+# Versant Object Database #
 
+* Predecessar to graph databases
 * Built in 1988
 * Transparent persistency for objects
 * Could easily store and traverse millions of objects
@@ -176,7 +191,7 @@
 
 * Core Data
 * Neo4J
-* RDF
+* HyperGraphDB
 
 !SLIDE bullets incremental
 
@@ -206,118 +221,3 @@
 
 ## Some document databases can handle graphs as well ##
 
-!SLIDE
-
-## How is today different from back then? ##
-
-!SLIDE
-
-## The simplicity isn't new. ##
-
-!SLIDE
-
-## Data is what's become important. ##
-
-!SLIDE
-
-## And simpler ways to scale out. ##
-
-!SLIDE
-
-## The tools evolve around particular data and structure needs. ##
-
-!SLIDE
-
-## Open web technologies are a perfect fit. ##
-
-!SLIDE
-
-## But not a must. ##
-
-!SLIDE
-
-## If someone tries to sell you a closed product. ##
-
-!SLIDE
-
-# Run! #
-
-!SLIDE
-
-# Why Dynamo? #
-
-!SLIDE
-
-## Key-value access is the simplest thing possible. ##
-
-!SLIDE
-
-## Simpler things are easier to scale up. ##
-
-!SLIDE
-
-## It doesn't matter where the key is ##
-
-!SLIDE
-
-## Only the ring needs to know ##
-
-!SLIDE
-
-## As long as you just need a key to access data ##
-
-!SLIDE
-
-## Scaling out is easy ##
-
-!SLIDE
-
-## ...in theory. ##
-
-!SLIDE
-
-## Column, key-value and document stores ##
-
-!SLIDE
-
-## All access data by key ##
-
-!SLIDE
-
-## They're partitioning-friendly ##
-
-!SLIDE
-
-## Therefore well-suited for hashing ##
-
-!SLIDE
-
-# Caveat Emptor #
-
-!SLIDE
-
-## It's not for everybody. ##
-
-!SLIDE
-
-## Even if some people like telling you that. ##
-
-!SLIDE
-
-## Simplicity comes with a price. ##
-
-!SLIDE
-
-## A price that depends on your use case. ##
-
-!SLIDE
-
-## Range queries can be hard. ##
-
-!SLIDE
-
-## Complex ad-hoc queries are almost impossible. ##
-
-!SLIDE
-
-## They just don't scale that well across N nodes. ##
