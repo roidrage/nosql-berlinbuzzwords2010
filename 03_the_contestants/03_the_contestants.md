@@ -102,6 +102,30 @@
 * Lookup by key and attribute
 * Can compress similar data
 
+!SLIDE
+
+## A traditional column in a RDBMS ##
+
+    | name             | when              |
+    | Berlin Buzzwords | 7th/8th June 2010 |
+
+!SLIDE javascript
+
+## A column in a Column store ##
+
+    @@@ javascript
+    {
+      "name": "Berlin Buzzwords",
+      "when": "7th/8th June 2010"
+    }
+
+!SLIDE javascript center
+
+## Lookup of values by key and attribute ##
+
+    @@@ javascript
+    users[1234]['name']
+
 !SLIDE bullets
 
 # Sybase IQ #
@@ -129,8 +153,14 @@
 
 # Graph Databases #
 
-* Tightly connected documents
-* Easy traversal of relationships
+* Networks or deep trees of data
+* Easy and cheap traversal of relationships
+
+!SLIDE center
+
+# Graph Databases #
+
+![The Internet anno 1998](internet.jpg)
 
 !SLIDE bullets incremental
 
@@ -148,9 +178,17 @@
 * Neo4J
 * RDF
 
+!SLIDE bullets incremental
+
+# Neo4j #
+
+* Embedded engine
+* Semi-structured data
+* Stores 100 of millions of nodes
+
 !SLIDE
 
-## The kind of overlap in some cases. ##
+## They kind of overlap in some cases. ##
 
 !SLIDE
 
