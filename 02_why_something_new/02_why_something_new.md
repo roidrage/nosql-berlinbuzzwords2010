@@ -113,6 +113,10 @@
 
 ### (Old-school!) ###
 
+!SLIDE
+
+## How we should scale up instead: ##
+
 !SLIDE center
 
 ## P2P ##
@@ -145,6 +149,14 @@
 ![CAP](cap.png)
 
 ### Pick two! ###
+
+!SLIDE center
+
+## CAP ##
+
+![AP](ap.png)
+
+### The choice of the NoSQL generation. ##
 
 !SLIDE center
 <br/>

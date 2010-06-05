@@ -82,7 +82,7 @@
 
 # CouchDB #
 
-* Lotus Notes
+* What Lotus Notes should have been like
 * JavaScript, HTTP
 * Offline by default
 * P2P-like Replication
@@ -125,10 +125,32 @@
 * BigTable and Dynamo
 * Sitting in a tree
 
+!SLIDE bullets incremental
+
+# Graph Databases #
+
+* Tightly connected documents
+* Easy traversal of relationships
+
+!SLIDE bullets incremental
+
+# Versant OODMBS #
+
+* Built in 1988
+* Transparent persistency for objects
+* Could easily store and traverse millions of objects
+
+!SLIDE bullets incremental
+
+# Today #
+
+* Core Data
+* Neo4J
+* RDF
 
 !SLIDE
 
-## They kind of overlap in some cases. ##
+## The kind of overlap in some cases. ##
 
 !SLIDE
 
@@ -148,15 +170,51 @@
 
 !SLIDE
 
+## How is today different from back then? ##
+
+!SLIDE
+
+## The simplicity isn't new. ##
+
+!SLIDE
+
+## Data is what's become important. ##
+
+!SLIDE
+
+## And simpler ways to scale out. ##
+
+!SLIDE
+
+## The tools evolve around particular data and structure needs. ##
+
+!SLIDE
+
+## Open web technologies are a perfect fit. ##
+
+!SLIDE
+
+## But not a must. ##
+
+!SLIDE
+
+## If someone tries to sell you a closed product. ##
+
+!SLIDE
+
+# Run! #
+
+!SLIDE
+
 # Why Dynamo? #
 
 !SLIDE
 
-## Key-value access is the simplest thing possible ##
+## Key-value access is the simplest thing possible. ##
 
 !SLIDE
 
-## Simpler things are easier to scale up ##
+## Simpler things are easier to scale up. ##
 
 !SLIDE
 
