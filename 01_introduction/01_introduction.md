@@ -3,7 +3,7 @@
 # NoSQL #
 # The Definitive Guide #
 
-<p class="caption">Berlin Buzzwords 2010</p>
+<p class="caption"><a href="http://berlinbuzzwords.de">Berlin Buzzwords 2010</a></p>
 
 !SLIDE bullets incremental
 
@@ -55,23 +55,12 @@
 
 !SLIDE
 
-# What the heck is it? #
-
-!SLIDE
-
 # Is it about having no SQL? #
-
-!SLIDE
-
-# No. #
+### Hint: It isn't. ###
 
 !SLIDE
 
 # \#LESSQL #
-
-!SLIDE
-
-# Getting closer. #
 
 !SLIDE
 
@@ -89,25 +78,26 @@
 
 ## They just come in a prettier package. ##
 
+!SLIDE bullets incremental
+
+# What it's really about. #
+* For me at least
+
 !SLIDE center
 
-# Scalability? #
+# Scalability #
 
 !SLIDE
 
-## Somewhat, yes. ##
-
-!SLIDE
-
-# Simplicity? #
-
-!SLIDE
-
-# There you go. #
+# Simplicity #
 
 !SLIDE
 
 ## Complexity usually imposes contraints. ##
+
+!SLIDE
+
+## Constraints make scaling harder. ##
 
 !SLIDE
 
@@ -119,15 +109,11 @@
 
 !SLIDE
 
-# Data! #
+# Data #
 
 !SLIDE
 
-# Yes! #
-
-!SLIDE
-
-## But why data? ##
+## Why? ##
 
 !SLIDE
 
@@ -141,18 +127,3 @@
 
 ## NoSQL is about using what's right for your data. ##
 
-!SLIDE bullets incremental
-
-# To sum up. #
-
-* Simplicity
-* Data
-* Scale
-
-!SLIDE
-
-## Note: Order is not random, it's opinionated. ##
-
-!SLIDE
-
-## NoSQL is about evolution, not replacement. ##

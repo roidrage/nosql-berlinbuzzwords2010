@@ -116,7 +116,7 @@
 
 !SLIDE center
 
-## Another requirement that hasn't really existed before today's web. ##
+## Not that big a problem before today's web. ##
 
 !SLIDE center
 

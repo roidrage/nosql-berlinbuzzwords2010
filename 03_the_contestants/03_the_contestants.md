@@ -190,11 +190,11 @@
 
 * Embedded engine
 * Semi-structured data
-* Stores 100 of millions of nodes
+* Stores 100 of millions of objects
 
 !SLIDE
 
-## They kind of overlap in some cases. ##
+## The categories can overlap in some cases. ##
 
 !SLIDE
 

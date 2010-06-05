@@ -28,7 +28,7 @@
 
 !SLIDE center
 
-## The CouchDB Replication model ##
+## The CouchDB replication model: ##
 ## Everyone talks to everyone ##
 
 !SLIDE
@@ -41,10 +41,6 @@
 
 ![Hash Ring](hash_ring.png)
 
-!SLIDE center
-
-## Every node in the ring knows where any key is in the cluster. ##
-
 !SLIDE bullets incremental
 
 * Data is partitioned into slices
@@ -55,9 +51,13 @@
 
 !SLIDE
 
+## Every node knows where every key is in the cluster. ##
+
+!SLIDE
+
 # Quorum #
 
-## The minimum number of votes given by replica nodes in a distributed system required to successfully complete a read or write operation. ##
+> The minimum number of votes given by replica nodes in a distributed system required to successfully complete a read or write operation.
 
 !SLIDE center
 
@@ -73,6 +73,7 @@
 
 ![AP](ap.png)
 
+<br/>
 ### The choice of the NoSQL generation. ##
 
 !SLIDE center
@@ -103,14 +104,6 @@
 
 !SLIDE
 
-## It doesn't matter where the key is ##
-
-!SLIDE
-
-## Only the ring needs to know ##
-
-!SLIDE
-
 ## As long as you just need a key to access data ##
 
 !SLIDE
@@ -119,15 +112,11 @@
 
 !SLIDE
 
-## ...in theory. ##
-
-!SLIDE
-
 ## Column, key-value and document stores ##
 
 !SLIDE
 
-## All access data by key ##
+## ...all access data by key ##
 
 !SLIDE
 

@@ -109,7 +109,7 @@
 
 !SLIDE bullets incremental
 
-## Always access documents by key ##
+## Always access documents by key: ##
 
 * Key-value stores
 * Document databases
@@ -142,7 +142,7 @@
 * Object database
 * Riak
 
-!SLIDE
+!SLIDE bullets incremental
 
 ## Easy to scale out: ##
 
@@ -166,7 +166,15 @@
 
 !SLIDE
 
-## But these tools are solving real-life problems as we speak. ##
+## These tools are already solving real-life problems as I speak. ##
+
+!SLIDE
+
+## They were created out of particular needs. ##
+
+!SLIDE
+
+## Needs that couldn't be met by traditional systems. ##
 
 !SLIDE
 
@@ -174,7 +182,7 @@
 
 !SLIDE
 
-## But they won't go away. ##
+## They won't go away. ##
 
 !SLIDE
 
