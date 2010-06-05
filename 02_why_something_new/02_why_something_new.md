@@ -141,6 +141,13 @@
 * Replicated across N nodes
 * Writes go to at least W replicas
 * Reads are successful from R replicas
+* N, R, W represent the quorum
+
+!SLIDE
+
+# Quorum #
+
+## The minimum number of votes given by replica nodes in a distributed system required to successfully complete a read or write operation. ##
 
 !SLIDE center
 
