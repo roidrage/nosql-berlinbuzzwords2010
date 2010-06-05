@@ -26,7 +26,10 @@
 
 ![Multi-Master](multi_master.png)
 
-### Much better! ###
+!SLIDE center
+
+## The CouchDB Replication model ##
+## Everyone talks to everyone ##
 
 !SLIDE
 
@@ -37,6 +40,10 @@
 ## The Ring ##
 
 ![Hash Ring](hash_ring.png)
+
+!SLIDE center
+
+## Every node in the ring knows where any key is in the cluster. ##
 
 !SLIDE bullets incremental
 

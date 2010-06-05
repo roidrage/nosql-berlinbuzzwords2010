@@ -65,6 +65,7 @@
 !SLIDE
 
 ## They just don't scale that well across N nodes. ##
+
 !SLIDE
 
 ## So how do I choose the right tool? ##
@@ -118,7 +119,6 @@
 ## Access objects by more complex queries: ##
 
 * Document databases
-* Map/Reduce
 * Redis (with lots of reverse lookups)
 
 !SLIDE bullets incremental
@@ -157,4 +157,30 @@
 ## they're all easy to scale out. ##
 
 !SLIDE
+
+## How do I know I'm not wasting my time? ##
+
+!SLIDE
+
+## Hard to see the future is. ##
+
+!SLIDE
+
+## But these tools are solving real-life problems as we speak. ##
+
+!SLIDE
+
+## They will evolve even more. ##
+
+!SLIDE
+
+## But they won't go away. ##
+
+!SLIDE
+
+## They don't want to replace, they accompany. ##
+
+!SLIDE
+
+## Polyglot data storage will become more and more common. ##
 

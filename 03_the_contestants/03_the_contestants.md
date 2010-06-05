@@ -1,9 +1,5 @@
 !SLIDE
 
-## We'll get there in a minute. ##
-
-!SLIDE
-
 # Classification #
 
 !SLIDE
@@ -48,16 +44,11 @@
 * Amazon S3
 * Scalaris
 
-!SLIDE
-
-## Fun fact: ##
-### Project Voldemort can use BerkeleyDB as storage backend ###
-
 !SLIDE bullets incremental
 
 # Document Databases #
 
-* Rich documents (JSON-ish)
+* Rich, self-contained documents (JSON-ish)
 * Related data is stored in a document
 * Queries with JavaScript and Map/Reduce
 
@@ -113,7 +104,7 @@
 # Column Databases #
 
 * Similar data is stored together
-* Lookup by key and attribute
+* Lookup by key and attribute (fast!)
 * Can compress similar data
 
 !SLIDE
@@ -128,7 +119,7 @@
 ## A column in a Column store ##
 
     @@@ javascript
-    {
+    berlinbuzzwords: {
       "name": "Berlin Buzzwords",
       "when": "7th/8th June 2010"
     }
@@ -138,7 +129,7 @@
 ## Lookup of values directly by key and attribute ##
 
     @@@ javascript
-    users[1234]['name']
+    conferences['berlinbuzzwords']['name']
 
 !SLIDE bullets
 

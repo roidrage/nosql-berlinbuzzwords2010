@@ -42,10 +42,11 @@
 * Schemaless, not constrained
 * JSON (just an example)
 
-!SLIDE
+!SLIDE javascript
 
 # Less structure #
 
+    @@@ javascript
     {
       "_id": "45cae57dc7504ebd630a549275",
       "_rev": "2-1403823b3baf6e493a48e7b65",
@@ -56,10 +57,11 @@
 
 ## Document ##
 
-!SLIDE
+!SLIDE javascript
 
 # Less structure #
 
+    @@@ javascript
     {
       "_id": "45cae57dc7504ebd630a549275",
       "_rev": "2-1403823b3baf6e493a48e7b65",
@@ -70,10 +72,11 @@
 
 ## Schemaless ##
 
-!SLIDE
+!SLIDE javascript
 
 # Less structure #
 
+    @@@ javascript
     {
       "_id": "45cae57dc7504ebd630a549275",
       "_rev": "2-1403823b3baf6e493a48e7b65",
@@ -83,6 +86,18 @@
     }
 
 ## JSON ##
+
+!SLIDE center
+
+## JSON is a very common data structure in NoSQL. ##
+
+!SLIDE bullets incremental
+
+# JSON #
+
+* Simple
+* Strings, numbers, arrays, hashes
+* Universal data format
 
 !SLIDE center
 
@@ -106,5 +121,3 @@
 !SLIDE center
 
 ## But more on that later. ##
-
-
