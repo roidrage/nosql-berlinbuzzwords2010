@@ -10,7 +10,7 @@
 
 !SLIDE
 
-## What The Web™ really needs: ##
+## RDBMS, meet The Web™ ##
 
 !SLIDE center
 
@@ -60,7 +60,7 @@
 
 !SLIDE center
 
-# Simpler Data Access #
+# Simpler data access #
 
     "key" => "value"
 

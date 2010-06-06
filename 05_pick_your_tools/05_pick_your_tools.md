@@ -60,10 +60,11 @@
 
 !SLIDE bullets incremental
 
-## Simple data trimmed for fast access: ##
+## Simple data, trimmed for fast access: ##
 
 * Redis
 * MongoDB
+* Key-value stores
 
 !SLIDE bullets incremental
 
@@ -88,6 +89,7 @@
 ## Access objects by more complex queries: ##
 
 * Document databases
+* Graph databases
 * Redis (reverse lookups)
 
 !SLIDE bullets incremental
@@ -138,7 +140,7 @@
 
 !SLIDE
 
-## The name is still unfortunate though. ##
+## The name NoSQL is still unfortunate though. ##
 
 !SLIDE
 

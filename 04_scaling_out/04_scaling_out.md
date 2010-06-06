@@ -4,7 +4,7 @@
 
 !SLIDE bullets incremental
 
-## An RDBMS model of scaling up: ##
+## RDBMS models of scaling up: ##
 
 !SLIDE center
 
@@ -20,7 +20,7 @@
 
 !SLIDE
 
-## Approaches in NoSQL ##
+## Approaches in NoSQL: ##
 
 !SLIDE center
 

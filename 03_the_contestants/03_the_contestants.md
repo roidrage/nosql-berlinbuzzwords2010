@@ -19,7 +19,7 @@
 
 # Key-Value Stores #
 
-* Lookup of data by key
+* Fast lookup of data by key
 * That's it
 * No querying of data
 
@@ -87,15 +87,17 @@
 # CouchDB #
 
 * What Lotus Notes should have been like
-* JavaScript, HTTP
+* JSON, JavaScript, HTTP
+* Map/Reduce
 * Offline by default
 * P2P-like Replication
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Riak #
 
 * JSON, JavaScript, HTTP
+* Map/Reduce
 * Dynamo's Ring Model
 
 !SLIDE bullets incremental
@@ -104,14 +106,13 @@
 
 * Similar data stored together
 * Lookup by key and attribute (fast!)
-* Easy compression of similar data
 
-!SLIDE
+!SLIDE smaller
 
 ## A traditional column in a RDBMS ##
 
-    | name             | when              |
-    | Berlin Buzzwords | 7th/8th June 2010 |
+    | id              | name             | when              |
+    | berlinbuzzwords | Berlin Buzzwords | 7th/8th June 2010 |
 
 !SLIDE javascript
 
@@ -130,7 +131,7 @@
     @@@ javascript
     conferences['berlinbuzzwords']['name']
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Sybase IQ #
 
@@ -150,8 +151,8 @@
 
 # Cassandra #
 
-* BigTable and Dynamo
-* Sitting in a tree
+* Mix of BigTable and Dynamo
+* Supports column families
 
 !SLIDE bullets incremental
 

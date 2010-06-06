@@ -29,7 +29,7 @@
 !SLIDE
 
 # I'm just a user #
-### Who likes to play and work with new tools. ###
+### I play and work with new tools. ###
 
 !SLIDE
 
@@ -76,7 +76,7 @@
 
 !SLIDE bullets incremental
 
-# What it's really about. #
+# What NoSQL is really about. #
 * Warning: Opinionated!
 
 !SLIDE
@@ -87,9 +87,12 @@
 
 ## Complexity imposes contraints. ##
 
-!SLIDE
+!SLIDE bullets incremental
 
-## Constraints make scaling harder. ##
+## Constraints slow down ##
+
+* Performance
+* Development
 
 !SLIDE
 
@@ -102,10 +105,6 @@
 !SLIDE
 
 # Data #
-
-!SLIDE
-
-## Why? ##
 
 !SLIDE
 
