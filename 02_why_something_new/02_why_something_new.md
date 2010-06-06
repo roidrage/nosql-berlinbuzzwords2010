@@ -77,7 +77,3 @@
 !SLIDE center
 
 ## Not a big issue before today's web. ##
-
-!SLIDE center
-
-## But more on that later. ##

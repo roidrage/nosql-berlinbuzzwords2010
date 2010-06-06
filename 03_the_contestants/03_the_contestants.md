@@ -70,7 +70,7 @@
 
 * Built in 1989
 * Document-oriented
-* Offline-Replication
+* Offline replication
 * Unfortunately still in use
 
 !SLIDE bullets
@@ -86,11 +86,11 @@
 
 # CouchDB #
 
-* What Lotus Notes should have been like
+* Lotus Notes on steroids
 * JSON, JavaScript, HTTP
 * Map/Reduce
 * Offline by default
-* P2P-like Replication
+* P2P-like replication
 
 !SLIDE bullets incremental
 

@@ -146,7 +146,7 @@
 
 !SLIDE
 
-## The name NoSQL is still unfortunate though. ##
+## The name NoSQL is unfortunate though. ##
 
 !SLIDE
 
