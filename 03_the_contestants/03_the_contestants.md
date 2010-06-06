@@ -189,7 +189,7 @@
 
 * Embedded engine
 * Semi-structured data
-* Stores 100 of millions of objects
+* Stores 100s of millions of objects
 
 !SLIDE
 

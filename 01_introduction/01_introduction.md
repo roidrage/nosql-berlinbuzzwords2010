@@ -77,7 +77,7 @@
 !SLIDE bullets incremental
 
 # What it's really about. #
-* For me at least
+* Warning: Opinionated!
 
 !SLIDE
 
@@ -85,7 +85,7 @@
 
 !SLIDE
 
-## Complexity usually imposes contraints. ##
+## Complexity imposes contraints. ##
 
 !SLIDE
 
@@ -93,11 +93,11 @@
 
 !SLIDE
 
-## Simplicity aims to remove constraints. ##
+## Simplicity removes constraints. ##
 
 !SLIDE
 
-## Simplicity aims to not reinvent the wheel. ##
+## Simplicity doesn't reinvent the wheel. ##
 
 !SLIDE
 
@@ -126,7 +126,7 @@
 
 !SLIDE
 
-## Handling ginormous data. ##
+## Handling ginormous amounts of data. ##
 
 !SLIDE
 

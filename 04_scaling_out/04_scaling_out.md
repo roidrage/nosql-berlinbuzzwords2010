@@ -45,7 +45,7 @@
 
 !SLIDE center
 
-## Data is partitioned into slices ##
+## Data partitioned into slices ##
 ![Hash Ring Slices](hash_ring_slices.png)
 
 !SLIDE center

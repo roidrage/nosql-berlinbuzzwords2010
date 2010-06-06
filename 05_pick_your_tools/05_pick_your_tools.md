@@ -49,7 +49,7 @@
 
 !SLIDE
 
-## Data structure. ##
+# Data structure. #
 
 !SLIDE bullets incremental
 
@@ -74,7 +74,7 @@
 
 !SLIDE
 
-## Read vs. write access patterns. ##
+# Read vs. write patterns. #
 
 !SLIDE bullets incremental
 
