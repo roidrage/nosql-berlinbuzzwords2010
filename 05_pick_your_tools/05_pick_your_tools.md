@@ -24,10 +24,6 @@
 
 # Run! #
 
-!SLIDE
-
-# Caveat Emptor #
-
 !SLIDE center
 
 ## NoSQL is not the holy grail. ##

@@ -12,7 +12,11 @@
 
 ![Master-Slave](master_slave.png)
 
-### (Old-school!) ###
+!SLIDE center
+
+## Sharding ##
+
+![Sharding](sharding.png)
 
 !SLIDE
 
