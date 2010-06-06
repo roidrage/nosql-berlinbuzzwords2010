@@ -29,7 +29,7 @@
 !SLIDE
 
 # I'm just a user #
-### Who likes to plays and works with shiny tools. ###
+### Who likes to play and work with new tools. ###
 
 !SLIDE
 
@@ -60,7 +60,7 @@
 
 !SLIDE bullets incremental
 
-* \#LESSQL
+* \#LesSQL
 * Post-relational
 * Meh.
 

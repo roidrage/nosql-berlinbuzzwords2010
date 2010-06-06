@@ -92,14 +92,6 @@
 
 !SLIDE
 
-## Key-value access = Simple ##
-
-!SLIDE
-
-## Simple is easier to scale up. ##
-
-!SLIDE
-
 ## Column, key-value and document stores ##
 
 !SLIDE
@@ -108,10 +100,4 @@
 
 !SLIDE
 
-## Partitioning-friendly ##
-
-!SLIDE
-
-## Well-suited for hash ring ##
-
-
+## Key-value access = Partition-friendly ##
