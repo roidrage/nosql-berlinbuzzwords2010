@@ -70,7 +70,7 @@
 
 * Built in 1989
 * Document-oriented
-* Offline-Replication (Multi-Master)
+* Offline-Replication
 * Unfortunately still in use
 
 !SLIDE bullets
@@ -80,7 +80,7 @@
 * CouchDB
 * Riak
 * MongoDB
-* XML Databases (gasp)
+* XML Databases
 
 !SLIDE bullets incremental
 
@@ -209,5 +209,5 @@
 
 !SLIDE
 
-## Some document databases can handle graphs as well. ##
+## Some document databases can handle graphs. ##
 

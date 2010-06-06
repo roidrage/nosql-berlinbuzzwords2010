@@ -88,7 +88,7 @@
 ## Access objects by more complex queries: ##
 
 * Document databases
-* Redis (with lots of reverse lookups)
+* Redis (reverse lookups)
 
 !SLIDE bullets incremental
 
@@ -98,17 +98,17 @@
 
 !SLIDE bullets incremental
 
-## Reporting-style ad-hoc queries required: ##
+## Ad-hoc queries: ##
 
-* That can be a problem
 * MongoDB
+* Neo4j
 
 !SLIDE bullets incremental
 
 ## Tightly connected object graphs: ##
 
-* Graph database
-* Object database
+* Graph databases
+* Object databases
 * Riak
 
 !SLIDE bullets incremental
@@ -134,15 +134,11 @@
 
 !SLIDE
 
-## They don't want to replace, they accompany. ##
+## Polyglot data storage. ##
 
 !SLIDE
 
-## Polyglot data storage will become more and more common. ##
-
-!SLIDE
-
-## The name is still unfortunate, though. ##
+## The name is still unfortunate though. ##
 
 !SLIDE
 

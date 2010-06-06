@@ -28,9 +28,8 @@
 
 # Less structure #
 
-* Documents
+* Documents, loosely structured
 * Schemaless, not constrained
-* JSON (just an example)
 
 !SLIDE javascript
 
@@ -49,7 +48,7 @@
 
 !SLIDE center
 
-## NoSQL <span class="heart">♥</a> JSON ##
+# NoSQL <span class="heart">♥</a> JSON #
 
 !SLIDE bullets incremental
 

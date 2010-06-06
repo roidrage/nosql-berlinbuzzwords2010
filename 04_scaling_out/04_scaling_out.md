@@ -43,17 +43,28 @@
 
 ![Hash Ring](hash_ring.png)
 
+!SLIDE center
+
+## Data is partitioned into slices ##
+![Hash Ring Slices](hash_ring_slices.png)
+
+!SLIDE center
+
+## Replicated across N nodes ##
+![Hash Ring Replicas](hash_ring_replicas.png)
+
+!SLIDE center
+
+## Every node knows every key ##
+![Hash Ring Data flow](hash_ring_data_flow.png)
+
 !SLIDE bullets incremental
 
-* Data is partitioned into slices
-* Replicated across N nodes
+## Ensuring data consistency ##
+
 * Writes go to at least W replicas
 * Reads are successful from R replicas
 * N, R, W represent the quorum
-
-!SLIDE
-
-## Every node knows where every key is in the cluster. ##
 
 !SLIDE
 
