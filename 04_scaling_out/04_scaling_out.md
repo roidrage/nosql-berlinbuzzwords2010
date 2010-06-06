@@ -31,7 +31,7 @@
 !SLIDE center
 
 ## The CouchDB replication model: ##
-## Everyone talks to everyone ##
+## Everyone can talk to everyone ##
 
 !SLIDE
 
@@ -93,11 +93,12 @@
 !SLIDE
 
 ## Column, key-value and document stores ##
-
-!SLIDE
-
-## ...access data by key ##
+## access data by key ##
 
 !SLIDE
 
 ## Key-value access = Partition-friendly ##
+
+!SLIDE
+
+## These are just two approaches to scale out. ##

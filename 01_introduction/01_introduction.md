@@ -85,7 +85,7 @@
 
 !SLIDE
 
-## Complexity imposes contraints. ##
+## Relational databases impose contraints. ##
 
 !SLIDE bullets incremental
 
@@ -126,6 +126,10 @@
 !SLIDE
 
 ## Handling ginormous amounts of data. ##
+
+!SLIDE
+
+## Simpler ways to scale up. ##
 
 !SLIDE
 

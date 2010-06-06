@@ -30,6 +30,7 @@
 
 * Documents, loosely structured
 * Schemaless, not constrained
+* Simple data access
 
 !SLIDE javascript
 
@@ -62,7 +63,7 @@
 
 # Simpler data access #
 
-    "key" => "value"
+    "45cae57dc7504ebd630a549275" => "{...}"
 
 !SLIDE
 
@@ -75,7 +76,7 @@
 
 !SLIDE center
 
-## Not a big problem before today's web. ##
+## Not a big issue before today's web. ##
 
 !SLIDE center
 

@@ -10,7 +10,7 @@
 
 # The Contestants #
 
-* Key-Value Stores
+* Key-value Stores
 * Document Databases
 * Column Stores
 * Graph Databases
@@ -174,7 +174,7 @@
 * Predecessor to graph databases
 * Built in 1988
 * Transparent persistence for objects
-* Could easily store and traverse millions of objects
+* Can store and traverse millions of objects
 
 !SLIDE bullets incremental
 
