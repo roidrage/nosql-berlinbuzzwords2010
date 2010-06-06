@@ -39,6 +39,12 @@
 
 * Don't scale well across N nodes.
 
+!SLIDE bullets incremental
+
+## No transactions. ##
+
+* Don't scale well in a distributed system.
+
 !SLIDE
 
 ## How do I pick the right tool? ##
