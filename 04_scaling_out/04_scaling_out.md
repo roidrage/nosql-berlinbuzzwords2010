@@ -4,9 +4,7 @@
 
 !SLIDE bullets incremental
 
-# How we used to scale up #
-
-* Or at least we tried to
+## An RDBMS model of scaling up: ##
 
 !SLIDE center
 
@@ -18,7 +16,7 @@
 
 !SLIDE
 
-## How we should scale up instead: ##
+## Approaches in NoSQL ##
 
 !SLIDE center
 
@@ -60,23 +58,6 @@
 > The minimum number of votes given by replica nodes in a distributed system required to successfully complete a read or write operation.
 
 !SLIDE center
-
-## CAP ##
-
-![CAP](cap.png)
-
-### Pick two! ###
-
-!SLIDE center
-
-## CAP ##
-
-![AP](ap.png)
-
-<br/>
-### The choice of the NoSQL generation. ##
-
-!SLIDE center
 <br/>
 ## Eventual Consistency ##
 
@@ -96,19 +77,11 @@
 
 !SLIDE
 
-## Key-value access is the simplest thing possible. ##
+## Key-value access = Simple ##
 
 !SLIDE
 
-## Simpler things are easier to scale up. ##
-
-!SLIDE
-
-## As long as you just need a key to access data ##
-
-!SLIDE
-
-## Scaling out is easy ##
+## Simple is easier to scale up. ##
 
 !SLIDE
 
@@ -116,14 +89,14 @@
 
 !SLIDE
 
-## ...all access data by key ##
+## ...access data by key ##
 
 !SLIDE
 
-## They're partitioning-friendly ##
+## Partitioning-friendly ##
 
 !SLIDE
 
-## Therefore well-suited for hashing ##
+## Well-suited for hash ring ##
 
 

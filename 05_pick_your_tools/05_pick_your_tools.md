@@ -2,33 +2,23 @@
 
 ## How is today different from back then? ##
 
-!SLIDE
+!SLIDE bullets incremental
 
-## The simplicity isn't new. ##
-
-!SLIDE
-
-## Data is what's become important. ##
+* Simplicity isn't new.
+* Data is what's important.
+* Simpler ways to scale out.
 
 !SLIDE
 
-## And simpler ways to scale out. ##
+## Evolution around data and access patterns. ##
 
 !SLIDE
 
-## The tools evolve around particular data and structure needs. ##
+## Open web technologies are a good fit. ##
 
 !SLIDE
 
-## Open web technologies are a perfect fit. ##
-
-!SLIDE
-
-## But not a must. ##
-
-!SLIDE
-
-## If someone tries to sell you a closed product. ##
+## Closed product? ##
 
 !SLIDE
 
@@ -38,45 +28,28 @@
 
 # Caveat Emptor #
 
-!SLIDE
+!SLIDE center
 
-## It's not for everybody. ##
-
-!SLIDE
-
-## Even if some people like telling you that. ##
-
-!SLIDE
-
-## Simplicity comes with a price. ##
-
-!SLIDE
-
-## A price that depends on your use case. ##
+## NoSQL is not the holy grail. ##
+![Holy Grail Ale](holy_grail.jpg)
 
 !SLIDE
 
 ## Range queries can be hard. ##
 
-!SLIDE
+!SLIDE bullets incremental
 
-## Complex ad-hoc queries are almost impossible. ##
+## Complex ad-hoc queries almost impossible. ##
 
-!SLIDE
-
-## They just don't scale that well across N nodes. ##
+* Don't scale well across N nodes.
 
 !SLIDE
 
-## So how do I choose the right tool? ##
+## How do I pick the right tool? ##
 
 !SLIDE
 
 # It Depends™ #
-
-!SLIDE
-
-## There are many factors involved. ##
 
 !SLIDE
 
@@ -153,36 +126,15 @@
 
 !SLIDE
 
-## In one way or the other ##
-## they're all easy to scale out. ##
-
-!SLIDE
-
 ## How do I know I'm not wasting my time? ##
 
 !SLIDE
 
-## Hard to see the future is. ##
+## Solutions to real-life problems. ##
 
 !SLIDE
 
-## These tools are already solving real-life problems as I speak. ##
-
-!SLIDE
-
-## They were created out of particular needs. ##
-
-!SLIDE
-
-## Needs that couldn't be met by traditional systems. ##
-
-!SLIDE
-
-## They will evolve even more. ##
-
-!SLIDE
-
-## They won't go away. ##
+## A natural evolution. ##
 
 !SLIDE
 
@@ -192,3 +144,10 @@
 
 ## Polyglot data storage will become more and more common. ##
 
+!SLIDE
+
+## The name is still unfortunate, though. ##
+
+!SLIDE
+
+![Thanks!](fin.jpg)

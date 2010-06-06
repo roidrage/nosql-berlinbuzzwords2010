@@ -31,7 +31,6 @@
 * Embedded database engine
 * Data stored as serialized array
 * Can handle up to 256 TB
-* Still actively used
 
 !SLIDE bullets
 
@@ -49,8 +48,8 @@
 # Document Databases #
 
 * Rich, self-contained documents (JSON-ish)
-* Related data is stored in a document
-* Queries with JavaScript and Map/Reduce
+* Very loose structure
+* Queries with e.g. JavaScript and Map/Reduce
 
 !SLIDE javascript
 
@@ -83,7 +82,7 @@
 * MongoDB
 * XML Databases (gasp)
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # CouchDB #
 
@@ -103,9 +102,9 @@
 
 # Column Databases #
 
-* Similar data is stored together
+* Similar data stored together
 * Lookup by key and attribute (fast!)
-* Can compress similar data
+* Easy compression of similar data
 
 !SLIDE
 
@@ -126,7 +125,7 @@
 
 !SLIDE javascript center
 
-## Lookup of values directly by key and attribute ##
+## Lookup directly by key and attribute ##
 
     @@@ javascript
     conferences['berlinbuzzwords']['name']
@@ -142,7 +141,7 @@
 
 # Today #
 
-* Google's BigTable
+* Google BigTable
 * Cassandra
 * HBase
 * Hypertable
@@ -171,9 +170,9 @@
 
 # Versant Object Database #
 
-* Predecessar to graph databases
+* Predecessor to graph databases
 * Built in 1988
-* Transparent persistency for objects
+* Transparent persistence for objects
 * Could easily store and traverse millions of objects
 
 !SLIDE bullets incremental
@@ -198,17 +197,17 @@
 
 !SLIDE
 
-## A document database can be a key-value store ##
+## A document database can be a key-value store. ##
 
 !SLIDE
 
-## A column store is similar to a key-value store ##
+## A column store is a fancy key-value store. ##
 
 !SLIDE
 
-## A graph database is a document database on steroids ##
+## A graph database is a document database on steroids. ##
 
 !SLIDE
 
-## Some document databases can handle graphs as well ##
+## Some document databases can handle graphs as well. ##
 

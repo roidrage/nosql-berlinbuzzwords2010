@@ -1,15 +1,5 @@
 !SLIDE
 
-# Ancient History #
-
-!SLIDE bullets incremental
-
-## We've seen some of this before. ##
-
-* Sort of
-
-!SLIDE
-
 ## Relational databases tried to fit all sizes. ##
 
 !SLIDE
@@ -55,41 +45,11 @@
       "author": "Jan"
     }
 
-## Document ##
-
-!SLIDE javascript
-
-# Less structure #
-
-    @@@ javascript
-    {
-      "_id": "45cae57dc7504ebd630a549275",
-      "_rev": "2-1403823b3baf6e493a48e7b65",
-      "created_at": "2010/05/12 10:09:53",
-      "title": "JSON FTW!",
-      "author": "Jan"
-    }
-
-## Schemaless ##
-
-!SLIDE javascript
-
-# Less structure #
-
-    @@@ javascript
-    {
-      "_id": "45cae57dc7504ebd630a549275",
-      "_rev": "2-1403823b3baf6e493a48e7b65",
-      "created_at": "2010/05/12 10:09:53",
-      "title": "JSON FTW!",
-      "author": "Jan"
-    }
-
-## JSON ##
+## Document, Schemaless, JSON ##
 
 !SLIDE center
 
-## JSON is a very common data structure in NoSQL. ##
+## NoSQL <span class="heart">♥</a> JSON ##
 
 !SLIDE bullets incremental
 
@@ -116,7 +76,7 @@
 
 !SLIDE center
 
-## Not that big a problem before today's web. ##
+## Not a big problem before today's web. ##
 
 !SLIDE center
 

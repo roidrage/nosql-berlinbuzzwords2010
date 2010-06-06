@@ -28,8 +28,8 @@
 
 !SLIDE
 
-# I'm just a regular user #
-## I just love to play and work with shiny tools. ##
+# I'm just a user #
+### Who likes to plays and works with shiny tools. ###
 
 !SLIDE
 
@@ -58,34 +58,26 @@
 # Is it about having no SQL? #
 ### Hint: It isn't. ###
 
-!SLIDE
+!SLIDE bullets incremental
 
-# \#LESSQL #
-
-!SLIDE
-
-# Post-relational. #
-
-!SLIDE
-
-# Meh. #
+* \#LESSQL
+* Post-relational
+* Meh.
 
 !SLIDE
 
 ## The technologies aren't new. ##
 
-!SLIDE
+!SLIDE center
 
 ## They just come in a prettier package. ##
+
+<a href="http://www.flickr.com/photos/jek-a-go-go/2449432857/"><img src="pretty_package.jpg"/></a>
 
 !SLIDE bullets incremental
 
 # What it's really about. #
 * For me at least
-
-!SLIDE center
-
-# Scalability #
 
 !SLIDE
 
@@ -117,7 +109,8 @@
 
 !SLIDE
 
-## Different use cases require different types of data structures. ##
+## Different use cases: ##
+## Different data structures. ##
 
 !SLIDE
 
@@ -125,5 +118,16 @@
 
 !SLIDE
 
-## NoSQL is about using what's right for your data. ##
+## Use what's right for your data. ##
 
+!SLIDE center
+
+# Scalability #
+
+!SLIDE
+
+## Handling ginormous data. ##
+
+!SLIDE
+
+# Diversity #
