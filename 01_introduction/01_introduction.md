@@ -61,6 +61,7 @@
 !SLIDE bullets incremental
 
 * \#LesSQL
+* Not Only SQL
 * Post-relational
 * Meh.
 
