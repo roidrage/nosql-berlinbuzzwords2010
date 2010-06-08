@@ -107,12 +107,16 @@
 * Similar data stored together
 * Lookup by key and attribute (fast!)
 
-!SLIDE smaller
+!SLIDE smaller bullets incremental
 
-## A traditional column in a RDBMS ##
+## A traditional row in a RDBMS ##
 
     | id              | name             | when              |
     | berlinbuzzwords | Berlin Buzzwords | 7th/8th June 2010 |
+
+<br/>
+* Fetch row by identifier
+* Lookup attribute by column
 
 !SLIDE javascript
 
